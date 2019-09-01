@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="WaveView-v0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/705b125b7cdb05be406dfcb4c866ab87dc3efe29/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/705b125b7cdb05be406dfcb4c866ab87dc3efe29/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

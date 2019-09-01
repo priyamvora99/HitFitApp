@@ -1,0 +1,389 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:2:1-177:12
+	package
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.INTERNET
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:11:5-175:19
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Pinakin\.android\build-cache\0ece2ddd5355e74d44b7038ecc14073e45a5cb47\output\AndroidManifest.xml:26:5-20
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\Pinakin\.android\build-cache\1d29a982197b36e366422d99e75a2d8d2fee1308\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pinakin\.android\build-cache\8213363fbd9a03312b368e86ec38c3b325ba06c8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Pinakin\.android\build-cache\e893f1494127ab82433343ed67f0104554cc8fef\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pinakin\.android\build-cache\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pinakin\.android\build-cache\96630f2837ec89e79a3711f80f703f653ec8f348\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pinakin\.android\build-cache\2017667856392d2bc8a4e83f2d75a53db46f595f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Pinakin\.android\build-cache\a0a1febf8b645b04c10af4a221969b74e07ec568\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pinakin\.android\build-cache\bcd5861b624d3e389fef21d164443fef0bdfa3c0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pinakin\.android\build-cache\bce76d18a774356c58389a7697eb94e3faccfee1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pinakin\.android\build-cache\cb71245d9c2ab194360eff1ef7ef0be450193750\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pinakin\.android\build-cache\70332799816f7decb04be0bedb26bb6072c25b24\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pinakin\.android\build-cache\78e3f7a63a68bd52e1679bd698c135f87e7a21d6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pinakin\.android\build-cache\0abb3030ac9f58390ece74c54c32ec641ff7de29\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:16:9-35
+	android:roundIcon
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:15:9-42
+	android:allowBackup
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:13:9-37
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.priyam.databaselogin.MainActivity
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:19:9-21:15
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:20:13-53
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:19:19-47
+activity#com.example.priyam.databaselogin.Signup
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:22:9-24:15
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:23:13-53
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:22:19-41
+activity#com.example.priyam.databaselogin.SplashScreen
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:25:9-32:20
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:26:13-53
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.priyam.databaselogin.GetBasicInfo
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:33:9-38:20
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:35:13-53
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:36:13-47
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:34:13-41
+activity#com.example.priyam.databaselogin.ForgotPassword
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:39:9-52
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:39:19-49
+activity#com.example.priyam.databaselogin.BmiDisplay
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:40:9-43:49
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:42:13-53
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:43:13-46
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:41:13-39
+activity#com.example.priyam.databaselogin.MedHistory
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:44:9-48
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:44:19-45
+activity#com.example.priyam.databaselogin.Dashboard
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:45:9-49:50
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:47:13-53
+	android:label
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:48:13-61
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:49:13-47
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:46:13-38
+activity#com.example.priyam.databaselogin.WaterMonitor
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:50:9-59:20
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:53:13-53
+	android:label
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:52:13-65
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:54:13-52
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:55:13-48
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:51:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:56:13-58:78
+	android:value
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:58:17-75
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:57:17-63
+activity#com.example.priyam.databaselogin.WaterReminder
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:60:9-64:46
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:63:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:62:13-55
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:64:13-43
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:61:13-42
+receiver#com.example.priyam.databaselogin.Notification_receiver
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:66:9-70:20
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:66:19-56
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:67:13-69:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:68:17-79
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:68:25-76
+activity#com.example.priyam.databaselogin.StepMonitor
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:72:9-81:20
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:75:13-53
+	android:label
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:74:13-64
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:76:13-52
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:77:13-47
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:73:13-40
+service#com.example.priyam.databaselogin.StepCounter
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:83:9-87:44
+	android:enabled
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:85:13-35
+	android:process
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:87:13-41
+	android:exported
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:84:13-40
+activity#com.example.priyam.databaselogin.UserType
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:89:9-92:45
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:91:13-53
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:92:13-42
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:90:13-37
+activity#com.example.priyam.databaselogin.WalkReminder
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:93:9-97:46
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:96:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:95:13-54
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:97:13-43
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:94:13-41
+activity#com.example.priyam.databaselogin.FoodMonitor
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:98:9-106:20
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:100:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:101:13-52
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:102:13-42
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:99:13-40
+activity#com.example.priyam.databaselogin.FoodReminder
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:107:9-111:46
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:110:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:109:13-54
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:111:13-43
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:108:13-41
+activity#com.example.priyam.databaselogin.AddFoodItem
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:112:9-116:47
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:115:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:114:13-54
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:116:13-44
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:113:13-40
+activity#com.example.priyam.databaselogin.FoodItem
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:117:9-125:20
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:119:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:120:13-54
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:121:13-44
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:118:13-37
+activity#com.example.priyam.databaselogin.Exercise
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:126:9-135:20
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:128:13-53
+	android:label
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:129:13-60
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:130:13-52
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:131:13-44
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:127:13-37
+activity#com.example.priyam.databaselogin.UserProfile
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:136:9-140:51
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:139:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:138:13-52
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:140:13-48
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:137:13-40
+activity#com.example.priyam.databaselogin.ExerciseReminder
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:141:9-145:46
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:144:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:143:13-51
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:145:13-43
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:142:13-45
+activity#com.example.priyam.databaselogin.Yoga
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:146:9-148:56
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:148:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:147:13-51
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:146:19-39
+activity#com.example.priyam.databaselogin.Suryanamaskar
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:149:9-151:56
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:151:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:150:13-51
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:149:19-48
+activity#com.example.priyam.databaselogin.Gym
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:152:9-154:56
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:154:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:153:13-51
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:152:19-38
+activity#com.example.priyam.databaselogin.UpdateBasic
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:155:9-159:50
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:158:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:157:13-54
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:159:13-47
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:156:13-40
+activity#com.example.priyam.databaselogin.UpdateMedical
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:160:9-162:56
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:162:13-53
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:161:13-54
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:160:19-48
+activity#com.example.priyam.databaselogin.Reminders
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:163:9-164:55
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:164:13-53
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:163:19-44
+activity#com.example.priyam.databaselogin.Help
+ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:165:9-174:20
+	android:screenOrientation
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:167:13-53
+	android:label
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:168:13-56
+	android:parentActivityName
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:169:13-52
+	android:theme
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:170:13-56
+	android:name
+		ADDED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml:166:13-33
+uses-sdk
+INJECTED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Pinakin\.android\build-cache\0ece2ddd5355e74d44b7038ecc14073e45a5cb47\output\AndroidManifest.xml:20:5-43
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\Pinakin\.android\build-cache\7a5a855295ff834e45723e813c0f40f88c710beb\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\Pinakin\.android\build-cache\a8f70101d60fdeda0916d991bfb828a1e47efe29\output\AndroidManifest.xml:8:5-10:41
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] C:\Users\Pinakin\.android\build-cache\1d29a982197b36e366422d99e75a2d8d2fee1308\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pinakin\.android\build-cache\8213363fbd9a03312b368e86ec38c3b325ba06c8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.john990:WaveView:v0.9] C:\Users\Pinakin\.android\build-cache\705b125b7cdb05be406dfcb4c866ab87dc3efe29\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] C:\Users\Pinakin\.android\build-cache\0788939be8313ff3b5345efe9c003afecc42a165\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.ogaclejapan.smarttablayout:utils-v4:1.6.1] C:\Users\Pinakin\.android\build-cache\23afbb7e566f3522dc8f18341bcb516ae5b8c981\output\AndroidManifest.xml:8:5-10:41
+MERGED from [me.henrytao:smooth-app-bar-layout:24.1.0.0] C:\Users\Pinakin\.android\build-cache\40f342cdd7d17f8cd887b5b7d2cadfcf286ed02e\output\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Pinakin\.android\build-cache\e893f1494127ab82433343ed67f0104554cc8fef\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pinakin\.android\build-cache\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pinakin\.android\build-cache\96630f2837ec89e79a3711f80f703f653ec8f348\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pinakin\.android\build-cache\2017667856392d2bc8a4e83f2d75a53db46f595f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Pinakin\.android\build-cache\434984e5a3e905921e2a978ef19f0f0a63de0ec2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Pinakin\.android\build-cache\a0a1febf8b645b04c10af4a221969b74e07ec568\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pinakin\.android\build-cache\bcd5861b624d3e389fef21d164443fef0bdfa3c0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pinakin\.android\build-cache\bce76d18a774356c58389a7697eb94e3faccfee1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pinakin\.android\build-cache\cb71245d9c2ab194360eff1ef7ef0be450193750\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pinakin\.android\build-cache\70332799816f7decb04be0bedb26bb6072c25b24\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pinakin\.android\build-cache\78e3f7a63a68bd52e1679bd698c135f87e7a21d6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pinakin\.android\build-cache\0abb3030ac9f58390ece74c54c32ec641ff7de29\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.ogaclejapan.smarttablayout:library:1.6.1] C:\Users\Pinakin\.android\build-cache\6624ababfd12ec89b6c0893ae76ea2dff2bfcb42\output\AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Pinakin\.android\build-cache\e893f1494127ab82433343ed67f0104554cc8fef\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KartikClg\AndroidStudioProjects\DatabaseLogin\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Pinakin\.android\build-cache\0ece2ddd5355e74d44b7038ecc14073e45a5cb47\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\Pinakin\.android\build-cache\e893f1494127ab82433343ed67f0104554cc8fef\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Pinakin\.android\build-cache\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Pinakin\.android\build-cache\96630f2837ec89e79a3711f80f703f653ec8f348\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Pinakin\.android\build-cache\2017667856392d2bc8a4e83f2d75a53db46f595f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Pinakin\.android\build-cache\434984e5a3e905921e2a978ef19f0f0a63de0ec2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Pinakin\.android\build-cache\a0a1febf8b645b04c10af4a221969b74e07ec568\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pinakin\.android\build-cache\bcd5861b624d3e389fef21d164443fef0bdfa3c0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Pinakin\.android\build-cache\bce76d18a774356c58389a7697eb94e3faccfee1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pinakin\.android\build-cache\cb71245d9c2ab194360eff1ef7ef0be450193750\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Pinakin\.android\build-cache\70332799816f7decb04be0bedb26bb6072c25b24\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Pinakin\.android\build-cache\78e3f7a63a68bd52e1679bd698c135f87e7a21d6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Pinakin\.android\build-cache\0abb3030ac9f58390ece74c54c32ec641ff7de29\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Pinakin\.android\build-cache\0ece2ddd5355e74d44b7038ecc14073e45a5cb47\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Pinakin\.android\build-cache\0ece2ddd5355e74d44b7038ecc14073e45a5cb47\output\AndroidManifest.xml:23:9-47

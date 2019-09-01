@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="green">#1faa00</color>
+    <color name="grey">#c7c3c3</color>
+    <color name="lightgrey">#9e9e9e</color>
+    <color name="colorAccent">#7e7979</color>
+    <color name="white">#ffffff</color>
+    <color name="offwhite">#efe7e7</color>
+    <color name="dblue">#018d9e</color>
+    <color name="dblue2">#00c0d7</color>
+
+    <color name="lightblue">#1dbdee</color>
+    <color name="darkblue">#0e4699</color>
+    <color name="blue">#0c3d86</color>
+    <color name="waterblue">#00acc1</color>
+    <color name="maroon">#c2185b</color>
+    <color name="red">#d50000</color>
+    <color name="dred">#B71C1C</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="translucent">#93ffffff</color>
+    <color name="teal">#00ACC1</color>
+    <color name="lightteal">#26C6DA</color>
+    <color name="darkteal">#00838F</color>
+
+    <color name="yellow">#e6da07</color>
+    <color name="limegreen">#2bd10e</color>
+    <color name="black">#000000</color>
+
+    <color name="carrot">#db4d2d</color>
+    <color name="darkcarrot">#bf4024</color>
+    <color name="ochure">#e77326</color>
+
+    <color name="darkgrey">#606060</color>
+    <color name="orange">#ff6f00</color>
+
+    <color name="sblue">#25a6af</color>
+    <color name="sbluedark">#007780</color>
+    <color name="startblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
+    <color name="greylight">#fafafa</color>
+
+</resources>

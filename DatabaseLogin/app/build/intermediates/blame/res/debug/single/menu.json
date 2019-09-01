@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\next.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\menu\\next.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_dashboard_drawer.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\menu\\activity_dashboard_drawer.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dashboard.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\menu\\dashboard.xml"
+    }
+]

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.priyam.databaselogin.Exercise"
+    tools:showIn="@layout/activity_exercise">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:id="@+id/suryanamaskarL"
+            android:layout_width="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginEnd="40dp"
+            android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="600dp"
+            android:layout_marginTop="7dp"
+            android:layout_height="190dp"
+            android:alpha="50"
+            android:src="@drawable/suryanamaskar" />
+        <TextView
+            android:text="Suryanamaskar"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:background="@color/transparent"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_alignBottom="@+id/imageView5"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/yogaL"
+        android:layout_width="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="600dp"
+            android:layout_height="190dp"
+            android:layout_marginTop="7dp"
+            android:src="@drawable/yoga" />
+        <TextView
+            android:text="Yoga"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:background="@color/transparent"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_alignBottom="@+id/imageView"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/gymL"
+            android:layout_width="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginEnd="40dp"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="600dp"
+                android:layout_height="190dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="20dp"
+                android:src="@drawable/gym" />
+            <TextView
+                android:text="Gym-Cum-Home Exercise"
+                android:textSize="25sp"
+                android:gravity="center"
+                android:background="@color/transparent"
+                android:textColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_alignBottom="@+id/imageView1"
+                android:layout_alignParentStart="true" />
+        </RelativeLayout>
+
+    <!--<LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        android:orientation="horizontal"
+        android:background="@drawable/btn_ex"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="Gym Exercises"
+            android:textSize="25sp"
+            android:padding="10dp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+    </LinearLayout>
+    -->    </LinearLayout>
+    </ScrollView>

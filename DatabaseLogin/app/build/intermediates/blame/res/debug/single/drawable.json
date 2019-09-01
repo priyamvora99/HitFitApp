@@ -1,0 +1,534 @@
+[
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\walker.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\walker.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\e893f1494127ab82433343ed67f0104554cc8fef\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step15.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step15.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add1.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\add1.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step3.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step3.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pushup.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\pushup.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\water.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step2.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step2.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vegan.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\vegan.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step1.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step1.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step4.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step4.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tickwhite.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\tickwhite.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medical.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\medical.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carbs.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\carbs.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upward.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\upward.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cycle.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\cycle.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\walkanimation.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\walkanimation.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sira.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\sira.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\femaleblack.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\femaleblack.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water_gradient.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\water_gradient.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step12.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step12.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nonveg.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\nonveg.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\e893f1494127ab82433343ed67f0104554cc8fef\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gradient.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\btn_gradient.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step5.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step5.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedgeoverweight.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\roundedgeoverweight.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step13.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step13.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ustra.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\ustra.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\e893f1494127ab82433343ed67f0104554cc8fef\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lunge.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\lunge.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\handsupjpg.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\handsupjpg.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\skip.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\skip.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nullvegan.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\nullvegan.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step16.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step16.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suryanamaskar.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\suryanamaskar.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downward.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\downward.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stick.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\stick.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malecolor.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\malecolor.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\walking.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\walking.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\e893f1494127ab82433343ed67f0104554cc8fef\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adhojpg.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\adhojpg.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\glass2.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\glass2.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\glass8.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\glass8.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\glass5.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\glass5.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mountain.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\mountain.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\usermale.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\usermale.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\glass4.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\glass4.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sukhasanap.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\sukhasanap.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\protein.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\protein.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bckgnd_nutrient.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\bckgnd_nutrient.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradientbackground.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\gradientbackground.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fats.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\fats.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gym.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\gym.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tri.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\tri.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedgeunderweight.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\roundedgeunderweight.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step8.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step8.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step9.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step9.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step10.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step10.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plank.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\plank.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radar_marker.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\radar_marker.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nobeer.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\nobeer.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step7.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step7.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basic.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\basic.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fiber.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\fiber.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hal.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\hal.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\overflow.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\overflow.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nullveg.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\nullveg.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yoga.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\yoga.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedgeideal.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\roundedgeideal.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bala.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\bala.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veg.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\veg.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\execsize.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\execsize.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step6.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step6.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\steps.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\steps.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jog.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\jog.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bandha.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\bandha.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\arrow.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malebalck.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\malebalck.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sugar.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\sugar.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\femalecolor.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\femalecolor.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_profile_image_background.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\user_profile_image_background.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedgeobese.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\roundedgeobese.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step14.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step14.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\step11.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\step11.png"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\e893f1494127ab82433343ed67f0104554cc8fef\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Pinakin\\.android\\build-cache\\9846d4a9f0e5cf06ee53d0d454977eac2c9ab8c6\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\down.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mala.jpg",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\mala.jpg"
+    },
+    {
+        "merged": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minus.png",
+        "source": "E:\\KartikClg\\AndroidStudioProjects\\DatabaseLogin\\app\\src\\main\\res\\drawable\\minus.png"
+    }
+]

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item
+        android:duration="90"
+        android:drawable="@drawable/step1"/>
+    <item
+        android:duration="90"
+        android:drawable="@drawable/step2"/>
+    <item
+        android:duration="90"
+        android:drawable="@drawable/step3"/>
+    <item
+        android:duration="90"
+        android:drawable="@drawable/step4"/>
+    <item
+        android:duration="90"
+        android:drawable="@drawable/step5"/>
+    <item
+        android:duration="90"
+        android:drawable="@drawable/step6"/>
+    <item
+       android:duration="90"
+       android:drawable="@drawable/step7"/>
+    <item
+       android:duration="90"
+       android:drawable="@drawable/step8"/>
+  <item
+       android:duration="90"
+       android:drawable="@drawable/step9"/>
+   <item
+       android:duration="90"
+       android:drawable="@drawable/step10"/>
+   <item
+       android:duration="90"
+       android:drawable="@drawable/step11"/>
+   <item
+       android:duration="90"
+       android:drawable="@drawable/step12"/>
+   <item
+       android:duration="90"
+       android:drawable="@drawable/step13"/>
+   <item
+       android:duration="90"
+       android:drawable="@drawable/step14"/>
+   <item
+       android:duration="90"
+       android:drawable="@drawable/step15"/>
+   <item
+       android:duration="90"
+       android:drawable="@drawable/step16"/>
+
+</animation-list>

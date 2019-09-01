@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.example.priyam.databaselogin.BmiDisplay">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="00dp"
+        android:orientation="horizontal"
+        android:id="@+id/linear">
+
+        <TextView
+            android:id="@+id/range"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="38dp"
+            android:text="BMI calculated is : "
+            android:textAlignment="center"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:weightSum="4"
+        android:layout_marginTop="100dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout">
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:id="@+id/underweight"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@color/lightblue"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewUnderWeight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="UnderWeight"
+                android:textColor="@android:color/black"
+                android:textSize="14dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:id="@+id/ideal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@color/limegreen"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewIdeal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="Ideal"
+                android:textColor="@android:color/black"
+
+                android:textSize="14dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:id="@+id/overweight"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@color/yellow"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewOverweight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="Overweight"
+                android:textColor="@android:color/black"
+
+                android:textSize="14dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:id="@+id/obese"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@color/red"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewObese"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0dp"
+                android:layout_marginTop="12dp"
+                android:gravity="center"
+                android:text="Obese"
+                android:textColor="@android:color/black"
+
+                android:textSize="14dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="146dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayoutArrow">
+
+        <LinearLayout
+            android:id="@+id/arrowLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/arrowunderweight"
+                android:layout_width="26px"
+                android:layout_height="30dp"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/linearLayout"
+                android:layout_marginTop="-12dp"
+                android:background="@drawable/arrow"
+                android:elevation="0dp"
+                android:gravity="top"
+                android:layout_marginLeft="3dp"
+                android:rotation="90" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutBmi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:padding="6dp"
+        android:weightSum="1"
+        android:layout_marginTop="22dp"
+        android:layout_alignTop="@+id/linearLayoutArrow"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/bmiStatus"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/black"
+            android:layout_weight="0.99"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="bottom">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/actionbarT"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/red"
+                android:elevation="8dp"
+                android:gravity="center"
+                android:minHeight="?attr/actionBarSize"
+                app:theme="@style/Base.Theme.AppCompat.CompactMenu">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:id="@+id/toolbarmenucontainer2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left"
+                        android:layout_marginRight="30dp"
+                        android:gravity="start"
+                        android:orientation="horizontal"
+                        android:weightSum="3">
+
+                        <TextView
+                            android:id="@+id/back"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:gravity="start"
+                            android:text="@string/back"
+                            android:onClick="back"
+                            android:textColor="@color/white"
+                            android:textSize="17sp" />
+                    </LinearLayout>
+
+                    <ProgressBar
+                        android:id="@+id/progressBar"
+                        style="@android:style/Widget.DeviceDefault.Light.ProgressBar.Horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical|center_horizontal|center"
+                        android:layout_marginEnd="25dp"
+                        android:layout_weight="1"
+                        android:max="100"
+                        android:progress="40"
+                        android:progressBackgroundTint="@color/darkgrey"
+                        android:progressTint="@android:color/background_light" />
+
+                    <LinearLayout
+                        android:id="@+id/toolbarmenucontainer"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="end"
+                        android:orientation="horizontal"
+                        android:weightSum="3">
+
+                        <TextView
+                            android:id="@+id/next"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="12dp"
+                            android:onClick="next"
+                            android:text="NEXT"
+                            android:textAlignment="viewEnd"
+                            android:textColor="@color/white"
+                            android:textSize="17sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </android.support.v7.widget.Toolbar>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/actionbarT"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:gravity="center"
+                android:text="What is BMI?Hitfit calculates body mass index(BMI)using your height and weight, based on standards set specifically for Indian body.It is only an apprximate health indicator"
+                android:textAlignment="center"
+                android:textSize="13dp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,100 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/darkblue</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/dred</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyAppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorPrimaryDark">@color/darkteal</item>
+        <item name="colorAccent">@color/lightteal</item>
+
+    </style>
+
+    <style name="WaterMonitor" parent="AppTheme.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/waterblue</item>
+        <item name="colorPrimaryDark">@color/waterblue</item>
+        <item name="colorAccent">@color/waterblue</item>
+
+    </style>
+
+    <style name="Exercise" parent="AppTheme.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/maroon</item>
+        <item name="colorPrimaryDark">@color/maroon</item>
+        <item name="colorAccent">@color/maroon</item>
+
+    </style>
+
+    <style name="StepMonitor" parent="AppTheme.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/darkgrey</item>
+        <item name="colorPrimaryDark">@color/darkgrey</item>
+        <item name="colorAccent">@color/darkgrey</item>
+
+    </style>
+
+    <style name="Carrot" parent="AppTheme.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/carrot</item>
+        <item name="colorPrimaryDark">@color/carrot</item>
+        <item name="colorAccent">@color/ochure</item>
+    </style>
+
+    <style name="Carrot2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/carrot</item>
+        <item name="colorPrimaryDark">@color/carrot</item>
+        <item name="colorAccent">@color/ochure</item>
+    </style>
+
+    <style name="SomeBlue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/sblue</item>
+        <item name="colorPrimaryDark">@color/sbluedark</item>
+        <item name="colorAccent">@color/sbluedark</item>
+    </style>
+
+    <style name="MyDashboard" parent="@style/AppTheme.NoActionBar">
+        <item name="colorPrimaryDark">@color/lightgrey</item>
+    </style>
+
+    <style name="FoodItem" parent="@style/AppTheme.NoActionBar">
+        <item name="colorPrimaryDark">@color/lightgrey</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="drawerArrowStyle">@style/DrawerHamburgerStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverFlow</item>
+
+    </style>
+
+    <style name="OverFlow">
+        <item name="android:src">@drawable/overflow</item>
+    </style>
+    <style name="Help" parent="@style/AppTheme.NoActionBar">
+    </style>
+    <style name="DrawerHamburgerStyle" parent="@style/Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@color/blue</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

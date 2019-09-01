@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context="com.example.priyam.databaselogin.ExerciseReminder">
+
+    <Switch
+        android:id="@+id/switchRemind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:text="Set Reminder"
+        android:textSize="20sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:textAlignment="center"
+        android:text="*You will get a Reminder to Exercise according to the time you have selected."/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/timings"
+        android:visibility="gone">
+        <LinearLayout
+            android:id="@+id/suryanamaskar"
+            android:visibility="visible"
+            android:weightSum="2"
+            android:padding="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_weight="1.5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:gravity="start"
+                android:layout_marginEnd="10dp"
+                android:text="Suryanamaskar: "/>
+            <TextView
+                android:id="@+id/timeSurya"
+                android:layout_weight="0.5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginLeft="10dp"
+                android:gravity="end"
+                android:onClick="selectTime"
+                android:text="Click here to select time"/>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/Yoga"
+            android:visibility="visible"
+            android:weightSum="2"
+            android:padding="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_weight="1.5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:gravity="start"
+                android:layout_marginEnd="10dp"
+                android:text="Yoga: "/>
+            <TextView
+                android:id="@+id/timeYoga"
+                android:layout_weight="0.5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginLeft="10dp"
+                android:gravity="end"
+                android:onClick="selectTime"
+                android:text="Click here to select time"/>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/gymEx"
+            android:visibility="visible"
+            android:weightSum="2"
+            android:padding="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_weight="1.5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:gravity="start"
+                android:layout_marginEnd="10dp"
+                android:text="Gym Exercises: "/>
+            <TextView
+                android:id="@+id/timeGym"
+                android:layout_weight="0.5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginLeft="10dp"
+                android:gravity="end"
+                android:onClick="selectTime"
+                android:text="Click here to select time"/>
+        </LinearLayout>
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/exerciseReminderButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/btn"
+        android:onClick="setReminder"
+        android:text="Done"
+        android:textAllCaps="false"
+        android:textColor="#fff"
+        android:textSize="18sp" />
+
+</LinearLayout>

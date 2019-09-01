@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:weightSum="6"
+    android:layout_marginTop="10dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.priyam.databaselogin.Dashboard"
+    tools:showIn="@layout/app_bar_dashboard">
+
+    <RelativeLayout
+        android:layout_weight="1.5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:weightSum="2"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_weight="1"
+                android:id="@+id/waterMonitor"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:elevation="10dp">
+
+
+                <com.john.waveview.WaveView
+                    android:id="@+id/wave_view"
+                    android:layout_width="63dp"
+                    android:layout_height="109dp"
+                    android:layout_alignTop="@+id/imageView2"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="50dp"
+                    android:background="@drawable/round"
+                    app:above_wave_color="@color/darkblue"
+                    app:blow_wave_color="@color/darkblue"
+                    app:progress="80"
+                    app:wave_height="little"
+                    app:wave_hz="normal"
+                    app:wave_length="middle" />
+
+                <com.github.lzyzsd.circleprogress.DonutProgress
+
+                    android:id="@+id/waterMonitorBar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:onClick="waterMonitor"
+                    app:donut_finished_color="@color/lightblue"
+                    app:donut_finished_stroke_width="7dp"
+                    app:donut_progress="100"
+                    app:donut_unfinished_color="@color/offwhite"
+                    app:donut_text_color="@color/transparent"
+                    app:donut_background_color="@color/transparent"
+                    app:donut_unfinished_stroke_width="7dp" />
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/glass4" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_weight="1"
+                android:id="@+id/walkMonitor"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:elevation="10dp">
+
+                <com.github.lzyzsd.circleprogress.DonutProgress
+                    android:id="@+id/walkMonitorBar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:onClick="stepMonitor"
+
+                    app:donut_finished_color="@color/orange"
+                    app:donut_finished_stroke_width="7dp"
+                    app:donut_text_color="@color/white"
+                    app:donut_progress="100"
+                    app:donut_unfinished_stroke_width="7dp" />
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="110dp"
+                    android:src="@drawable/walker"
+
+                    android:layout_marginBottom="18dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_weight="1.5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hapticFeedbackEnabled="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <RelativeLayout
+                android:layout_weight="1"
+                android:id="@+id/foodMonitor"
+                android:layout_width="150dp"
+                android:layout_height="150dp">
+
+
+
+                <com.github.lzyzsd.circleprogress.DonutProgress
+
+                    android:id="@+id/foodMonitorBar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:onClick="foodMonitor"
+                    app:donut_finished_color="@color/ochure"
+                    app:donut_finished_stroke_width="7dp"
+                    app:donut_progress="100"
+                    app:donut_unfinished_color="@color/offwhite"
+                    app:donut_text_color="@color/transparent"
+                    app:donut_background_color="@color/transparent"
+                    app:donut_unfinished_stroke_width="7dp" />
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/food" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_weight="1"
+                android:id="@+id/exerciseMonitor"
+                android:layout_width="150dp"
+                android:layout_height="150dp">
+
+
+
+                <com.github.lzyzsd.circleprogress.DonutProgress
+
+                    android:id="@+id/exerciseMonitorBar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:onClick="exercise"
+                    app:donut_finished_color="@color/maroon"
+                    app:donut_finished_stroke_width="7dp"
+                    app:donut_progress="100"
+                    app:donut_unfinished_color="@color/offwhite"
+                    app:donut_text_color="@color/transparent"
+                    app:donut_background_color="@color/transparent"
+                    app:donut_unfinished_stroke_width="7dp" />
+
+                <ImageView
+                    android:id="@+id/imageView4"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/execsize" />
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </RelativeLayout>
+
+    <android.support.v7.widget.CardView
+        android:background="@color/grey"
+        android:layout_margin="20dp"
+        android:layout_weight="3"
+
+        app:cardBackgroundColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:background="@drawable/side_nav_bar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/tipno"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:padding="8dp"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:padding="15dp"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/tip"
+                    android:textSize="15sp"
+
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

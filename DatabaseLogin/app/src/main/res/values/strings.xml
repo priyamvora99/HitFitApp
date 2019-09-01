@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">HitFit</string>
+    <string-array name="spinnerItemsH">
+        <item>cms</item>
+    </string-array>
+    <string-array name="howoften">
+        <item>None</item>
+        <item>Daily</item>
+        <item>Frequently</item>
+        <item>Rarely</item>
+    </string-array>
+
+    <string-array name="spinnerItemsW">
+        <item>kgs</item>
+        <item>lbs</item>
+    </string-array>
+    <string name="back">BACK</string>
+    <string-array name="dailyActivity">
+        <item>None</item>
+        <item>1Hrs</item>
+        <item>2Hrs</item>
+        <item>3Hrs</item>
+        <item>4Hrs</item>
+        <item>5Hrs</item>
+    </string-array>
+    <string name="prompt">Select Unit </string>
+    <string name="radio_female">Female</string>
+    <string name="radio_male">Male </string>
+    <string name="radio_nodrink">Dont Drink</string>
+    <string name="radio_drink">Drink </string>
+    <string name="radio_nonveg">Non-Veg</string>
+    <string name="radio_veg">Veg </string>
+    <string name="dailyActivity_prompt">Your Daily Activity </string>
+    <string name="title_activity_dashboard">Dashboard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_water_monitor">WaterMonitor</string>
+    <string name="title_activity_step_monitor">StepMonitor</string>
+    <string name="title_activity_food_monitor">FoodMonitor</string>
+    <string name="title_activity_food_item">FoodItem</string>
+    <string name="title_activity_exercise">Exercise</string>
+    <string name="title_activity_help">Help</string>
+    <string-array name="tipname">
+        <item>An apple a day keeps doctor away. </item>
+        <item>Drink Some Water, Especially Before Meals.</item>
+        <item>Avoid Bright Lights Before Sleep.</item>
+        <item>Make Sure to Eat Enough Protein.</item>
+        <item>Do Some Cardio, or Just Walk More.</item>
+        <item>Do not Smoke or do Drugs, and Only Drink in Moderation.</item>
+        <item> Minimize Your Intake of Added Sugars.</item>
+        <item>Do not Eat a Lot of Refined Carbohydrates.</item>
+        <item>Track Your Food Intake Every Now and Then.</item>
+        <item>Use Plenty of Herbs and Spices.</item>
+        <item>If You Have Excess Belly Fat, Get Rid of it.</item>
+        <item>Eat Eggs, and Do not Throw Away The Yolk.</item>
+        <item>Carry water and drink enough water daily.</item>
+        <item>Do exercises that you love ♥ !</item>
+        <item>Get sufficient sleep of about 7–8 hrs.</item>
+        <item>Eat one fruit everyday.</item>
+        <item>Have a handful of nuts in Morning.</item>
+        <item>Meditate before bed.</item>
+    </string-array>
+
+    <string-array name="tipnumber">
+        <item>Healthy Tips for Healthy Living#1</item>
+        <item>Healthy Tips for Healthy Living#2</item>
+        <item>Healthy Tips for Healthy Living#3</item>
+        <item>Healthy Tips for Healthy Living#4</item>
+        <item>Healthy Tips for Healthy Living#5</item>
+        <item>Healthy Tips for Healthy Living#6</item>
+        <item>Healthy Tips for Healthy Living#7</item>
+        <item>Healthy Tips for Healthy Living#8</item>
+        <item>Healthy Tips for Healthy Living#9</item>
+        <item>Healthy Tips for Healthy Living#10</item>
+        <item>Healthy Tips for Healthy Living#11</item>
+        <item>Healthy Tips for Healthy Living#12</item>
+        <item>Healthy Tips for Healthy Living#13</item>
+        <item>Healthy Tips for Healthy Living#14</item>
+        <item>Healthy Tips for Healthy Living#15</item>
+        <item>Healthy Tips for Healthy Living#16</item>
+        <item>Healthy Tips for Healthy Living#17</item>
+        <item>Healthy Tips for Healthy Living#18</item>
+
+
+    </string-array>
+
+
+
+</resources>
